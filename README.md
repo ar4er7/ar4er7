@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ar4er7
 - 👀 I’m interested in Engineering, CO2 laser cutting and programming
-- 🌱 I’m currently learning JAVA SE
+- 🌱 I’m currently learning Python
 - 📫  telegramm: @ar4er7
       
 
